@@ -2,9 +2,7 @@ import Nav from 'react-bootstrap/Nav'
 import Navbar from 'react-bootstrap/Navbar'
 import Container from 'react-bootstrap/Container'
 
-// A single `Navigation` component within the header that will be used to conditionally render the different sections of your portfolio
-
-const Navigation = ({ resume, setResume }) => {
+const Navigation = ({ setResume }) => {
     return (
         <Navbar>
             <Container>

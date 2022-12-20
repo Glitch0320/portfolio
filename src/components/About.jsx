@@ -76,7 +76,7 @@ const About = () => {
                         backgroundColor: '#234099'
                     }}
                     className="text-light display-3">Who I am</h2>
-                <article className="lead p-3">Hello, I am Jon Ziemann. I have been alive for <time>{today}</time> days, and counting. I have always been a creative person, and generally a part of the 'Exceeds Expectations' category. Problem solving is my bread and butter, and it should be considering my grandmother was very good at untying knots. As a bootcamp student, I have been untying the knots of server routing, database structures, and the usage of this data on the front end. As a Software Engineer, I want to untie all kinds of knots for all kinds of people.</article>
+                <article className="lead p-3">Hello, I am Jon Ziemann. I have been alive for <time>{today}</time> days, and counting. I have always been a creative person, and am passionate about learning and growing. Problem solving is my bread and butter, and it should be considering my grandmother was very good at untying knots. As a bootcamp student, I have been untying the knots of server routing, database structures, and the usage of this data on the front end. As a Software Engineer, I want to untie all kinds of knots for all kinds of people.</article>
             </section>
             {/* Goals */}
             <section id='goals' style={{
@@ -89,7 +89,7 @@ const About = () => {
                     }}
                     className="text-light display-3 p-2 mt-3">Who I'm becoming</h2>
                 <article className="lead p-3">
-                    This year I took the first steps towards becoming a Full Stack Software Engineer by beginning my education through Harvard's Introduction to Computer Science{`(CS50x)`} and the University of Minnesota's 12 week full time coding bootcamp. CS50 programmed my brain to think like a computer, and the bootcamp allowed me to apply this mindset to web development. Although CS50 does have a large social network, I made close connections in the bootcamp through group projects and by teaching and learning from my peers.
+                    This year I took the first steps towards becoming a Full Stack Software Engineer by beginning my education through Harvard's Introduction to Computer Science{`(CS50x)`} and the University of Minnesota's 12 week full time coding bootcamp. CS50 opened my eyes to the possibilities of the internet, and the bootcamp showed me how these possibilities are expanded through collaboration.
                 </article>
                 <details>
                     <summary>Technical Skills</summary>
