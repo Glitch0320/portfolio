@@ -1,6 +1,7 @@
 import skatepath from '../assets/images/skate-path.PNG'
 import monzo from '../assets/images/monzo.png'
 import geopath from '../assets/images/geopath.png'
+import communitykitchen from '../assets/images/communitykitchen.png'
 
 export const projects = [
     {
@@ -32,5 +33,15 @@ export const projects = [
         techStack: ['html', 'css', 'js', 'react', 'mongo', 'node', 'github', 'git'],
         github: ' https://github.com/glitch0320/geopath',
         deploy: 'https://geopathxyz.herokuapp.com'
+    },
+    { 
+        title: 'Community Kitchen',
+        img: communitykitchen,
+        alt: "A list of posts for selling food items.",
+        summary: "Community Kitchen is an app that simply connects local food sellers to local food buyers.",
+        // HTML/CSS/JS/Github/Node/React/Mongo
+        techStack: ['html', 'css', 'js', 'react', 'mongo', 'node', 'github', 'git'],
+        github: ' https://github.com/glitch0320/communitykitchen',
+        deploy: 'https://communitykitchen.herokuapp.com'
     }
 ]
