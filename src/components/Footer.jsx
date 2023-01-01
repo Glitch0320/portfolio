@@ -17,7 +17,7 @@ const Footer = ({ show, setShow }) => {
                         <Nav.Link className='text-light' href="#" onClick={() => setShow(true)}><AiOutlineMail /></Nav.Link>
                         <Nav.Link className='text-light' href="https://github.com/Glitch0320"><AiOutlineGithub /></Nav.Link>
                         <Nav.Link className='text-light' href="https://www.linkedin.com/in/jon-ziemann-825798246/"><AiFillLinkedin /></Nav.Link>
-                        <Nav.Link className='text-light' href="https://www.freecodecamp.org/fccd25b65df-d538-43e2-ac4d-e9b899a1a4a7"><FaFreeCodeCamp /></Nav.Link>
+                        <Nav.Link className='text-light' href="https://www.freecodecamp.org/Jon_Ziemann"><FaFreeCodeCamp /></Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

@@ -19,7 +19,7 @@ const Header = ({ resume, setResume }) => {
                 height: 'auto',
                 borderRadius:'50%'
             }} src={jonesy} alt='Smiling person in a blue jacket with a backpack and headphones' />
-            <h2 className='display-3'>Junior Software Engineer</h2>
+            <h2 className='display-3'>Full Stack Software Engineer</h2>
             <Navigation resume={resume} setResume={setResume} />
         </header>
     )
